@@ -1,0 +1,88 @@
+Content ID,User Type,Subject,Difficulty,Learning Type,Name,Price (€)
+1,Advanced Programmer,GCP,Intermediate,Video,Intermediate Video on GCP,140
+2,Basic Programmer,C++,Intermediate,Self-paced Course,Intermediate Self-paced Course on C++,150
+3,Project Manager,Risk Management,Intermediate,Self-paced Course,Intermediate Self-paced Course on Risk Management,90
+4,Project Manager,Scrum,Expert,Workshop,Expert Workshop on Scrum,450
+5,Basic Programmer,Git,Basic,Interactive Session,Basic Interactive Session on Git,140
+6,Project Manager,Budgeting,Expert,Lecture,Expert Lecture on Budgeting,410
+7,Data Analyst,SQL,Advanced,Self-paced Course,Advanced Self-paced Course on SQL,220
+8,Advanced Programmer,Machine Learning,Advanced,Lecture,Advanced Lecture on Machine Learning,270
+9,Project Manager,Risk Management,Advanced,Self-paced Course,Advanced Self-paced Course on Risk Management,270
+10,Data Analyst,Statistics,Master,E-Learning,Master E-Learning on Statistics,410
+11,Advanced Programmer,GCP,Master,Workshop,Master Workshop on GCP,600
+12,Basic Programmer,Agile,Intermediate,Webinar,Intermediate Webinar on Agile,170
+13,Data Analyst,Python,Basic,Lecture,Basic Lecture on Python,70
+14,Data Analyst,Machine Learning,Master,Lecture,Master Lecture on Machine Learning,450
+15,Project Manager,Agile,Advanced,Physical Training,Advanced Physical Training on Agile,330
+16,Basic Programmer,Python,Intermediate,Book,Intermediate Book on Python,170
+17,Basic Programmer,C++,Master,Workshop,Master Workshop on C++,530
+18,Data Analyst,SQL,Master,Online Course,Master Online Course on SQL,370
+19,Basic Programmer,C++,Advanced,Physical Training,Advanced Physical Training on C++,290
+20,Basic Programmer,Git,Basic,Self-paced Course,Basic Self-paced Course on Git,70
+21,Basic Programmer,Python,Expert,Video,Expert Video on Python,390
+22,Data Analyst,Statistics,Intermediate,Workshop,Intermediate Workshop on Statistics,180
+23,Advanced Programmer,Cybersecurity,Master,Online Course,Master Online Course on Cybersecurity,370
+24,Data Analyst,Python,Master,Book,Master Book on Python,450
+25,Data Analyst,SQL,Basic,Webinar,Basic Webinar on SQL,60
+26,Project Manager,Scrum,Master,Webinar,Master Webinar on Scrum,480
+27,Advanced Programmer,GCP,Advanced,Workshop,Advanced Workshop on GCP,240
+28,Data Analyst,Statistics,Expert,Video,Expert Video on Statistics,350
+29,Advanced Programmer,AWS,Basic,Webinar,Basic Webinar on AWS,60
+30,Project Manager,Budgeting,Intermediate,Online Course,Intermediate Online Course on Budgeting,140
+31,Advanced Programmer,C++,Master,Webinar,Master Webinar on C++,420
+32,Project Manager,Budgeting,Basic,Online Course,Basic Online Course on Budgeting,40
+33,Basic Programmer,Agile,Advanced,Interactive Session,Advanced Interactive Session on Agile,440
+34,Advanced Programmer,Machine Learning,Expert,Online Course,Expert Online Course on Machine Learning,350
+35,Project Manager,Agile,Advanced,Lecture,Advanced Lecture on Agile,220
+36,Advanced Programmer,GCP,Basic,Workshop,Basic Workshop on GCP,70
+37,Data Analyst,Statistics,Basic,Lecture,Basic Lecture on Statistics,90
+38,Basic Programmer,Git,Expert,Interactive Session,Expert Interactive Session on Git,520
+39,Project Manager,Scrum,Expert,Self-paced Course,Expert Self-paced Course on Scrum,320
+40,Basic Programmer,Game Development,Intermediate,Lecture,Intermediate Lecture on Game Development,170
+41,Data Analyst,SQL,Basic,Self-paced Course,Basic Self-paced Course on SQL,60
+42,Basic Programmer,Agile,Basic,E-Learning,Basic E-Learning on Agile,80
+43,Project Manager,Risk Management,Basic,Online Course,Basic Online Course on Risk Management,70
+44,Basic Programmer,Game Development,Master,Lecture,Master Lecture on Game Development,510
+45,Advanced Programmer,Cybersecurity,Intermediate,Lecture,Intermediate Lecture on Cybersecurity,190
+46,Basic Programmer,Game Development,Master,Online Course,Master Online Course on Game Development,410
+47,Data Analyst,Python,Intermediate,Interactive Session,Intermediate Interactive Session on Python,210
+48,Data Analyst,Machine Learning,Master,Lecture,Master Lecture on Machine Learning,500
+49,Project Manager,Risk Management,Advanced,Workshop,Advanced Workshop on Risk Management,270
+50,Data Analyst,Statistics,Basic,Workshop,Basic Workshop on Statistics,110
+51,Project Manager,Scrum,Basic,Video,Basic Video on Scrum,60
+52,Project Manager,Scrum,Advanced,Book,Advanced Book on Scrum,290
+53,Basic Programmer,Game Development,Advanced,Interactive Session,Advanced Interactive Session on Game Development,340
+54,Project Manager,Risk Management,Expert,Interactive Session,Expert Interactive Session on Risk Management,460
+55,Basic Programmer,C++,Advanced,Online Course,Advanced Online Course on C++,190
+56,Project Manager,Risk Management,Intermediate,Interactive Session,Intermediate Interactive Session on Risk Management,280
+57,Data Analyst,SQL,Intermediate,Physical Training,Intermediate Physical Training on SQL,190
+58,Basic Programmer,Game Development,Advanced,Webinar,Advanced Webinar on Game Development,220
+59,Advanced Programmer,Cybersecurity,Advanced,Book,Advanced Book on Cybersecurity,230
+60,Basic Programmer,Game Development,Expert,Interactive Session,Expert Interactive Session on Game Development,550
+61,Project Manager,Scrum,Basic,Interactive Session,Basic Interactive Session on Scrum,120
+62,Data Analyst,Machine Learning,Master,Interactive Session,Master Interactive Session on Machine Learning,670
+63,Advanced Programmer,Cybersecurity,Advanced,Online Course,Advanced Online Course on Cybersecurity,240
+64,Basic Programmer,Python,Intermediate,Interactive Session,Intermediate Interactive Session on Python,220
+65,Advanced Programmer,Cybersecurity,Basic,Video,Basic Video on Cybersecurity,80
+66,Advanced Programmer,Machine Learning,Expert,Workshop,Expert Workshop on Machine Learning,370
+67,Basic Programmer,Game Development,Intermediate,Book,Intermediate Book on Game Development,140
+68,Project Manager,Risk Management,Expert,Workshop,Expert Workshop on Risk Management,370
+69,Advanced Programmer,Azure,Master,Interactive Session,Master Interactive Session on Azure,680
+70,Data Analyst,Machine Learning,Advanced,Physical Training,Advanced Physical Training on Machine Learning,270
+71,Data Analyst,SQL,Advanced,Self-paced Course,Advanced Self-paced Course on SQL,190
+72,Project Manager,Scrum,Advanced,Online Course,Advanced Online Course on Scrum,230
+73,Data Analyst,Statistics,Advanced,Self-paced Course,Advanced Self-paced Course on Statistics,200
+74,Data Analyst,SQL,Advanced,Self-paced Course,Advanced Self-paced Course on SQL,200
+75,Advanced Programmer,AWS,Advanced,Lecture,Advanced Lecture on AWS,300
+76,Advanced Programmer,Cybersecurity,Advanced,Physical Training,Advanced Physical Training on Cybersecurity,360
+77,Data Analyst,Statistics,Expert,Interactive Session,Expert Interactive Session on Statistics,530
+78,Project Manager,Budgeting,Intermediate,Workshop,Intermediate Workshop on Budgeting,200
+79,Advanced Programmer,Machine Learning,Advanced,Workshop,Advanced Workshop on Machine Learning,310
+80,Project Manager,Leadership,Advanced,Interactive Session,Advanced Interactive Session on Leadership,450
+81,Basic Programmer,Git,Expert,Lecture,Expert Lecture on Git,360
+82,Project Manager,Risk Management,Advanced,Workshop,Advanced Workshop on Risk Management,290
+83,Data Analyst,Python,Master,Video,Master Video on Python,470
+84,Data Analyst,Python,Basic,Interactive Session,Basic Interactive Session on Python,90
+85,Data Analyst,Python,Expert,Lecture,Expert Lecture on Python,390
+86,Advanced Programmer,AWS,Advanced,Interactive Session,Advanced Interactive Session on AWS,340
+87,Advanced Programmer,Cybersecurity,Intermediate,Workshop,Intermediate Workshop on Cybersecurity,170
